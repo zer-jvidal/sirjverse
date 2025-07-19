@@ -1,0 +1,22 @@
+h1 {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.me {
+    font-size: 100px;
+    text-align: center;
+    margin: 20px;
+}
+
+.hero-image {
+    max-width: 100%;
+    align-items: center;
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
